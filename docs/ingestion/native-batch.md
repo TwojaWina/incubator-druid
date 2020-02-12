@@ -155,7 +155,7 @@ A sample task is shown below:
           "type": "json"
         }
     },
-    "tuningconfig": {
+    "tuningConfig": {
         "type": "index_parallel",
         "maxNumConcurrentSubTasks": 2
     }
